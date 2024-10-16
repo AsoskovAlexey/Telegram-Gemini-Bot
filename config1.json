@@ -1,0 +1,10 @@
+{
+  "TELEGRAM_BOT_TOKEN": "tele_token",
+  "GOOGLE_TOKEN" : "google_token",
+  "start_message": "SAMPLE TEXT",
+
+  "HOST": "localhost",
+  "database" : "botdb",
+  "user" : "postgres",
+  "password" : "postgres"
+}
